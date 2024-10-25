@@ -8,10 +8,12 @@
         <h1>The perfect trip</h1>
 
         <p>I would see scenes like...</p>
-<img src="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/1cc1341a-fa90-4f14-b273-c6f25f31b796/campnou-2-2.jpg?ver=28-06-2024?w=1080&q=75">
+<img src="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/1cc1341a-fa90-4f14-b273-c6f25f31b796/campnou-2-2.jpg?ver=28-06-2024?w=1080&q=75" width="500">
         <p>And animals like...</p>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoBuMvSuYezLE9rwI-zOJeIOmcIGfDPqOvFA&s">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoBuMvSuYezLE9rwI-zOJeIOmcIGfDPqOvFA&s" width="500">
         <p>And eat food like...</p>
-<img src="https://www.simplyrecipes.com/thmb/l9oY0Ch5oi9WHoErR0mD6n-iBbE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Maduros-Serp-LEAD-Overhead-Vertical-61b72217c65b46108a09b649b7c28ae0.jpg">
+<img src="https://www.simplyrecipes.com/thmb/l9oY0Ch5oi9WHoErR0mD6n-iBbE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Maduros-Serp-LEAD-Overhead-Vertical-61b72217c65b46108a09b649b7c28ae0.jpg" width="500">
+
+<p> this is my perfect trip</p>
     </body>
 </html>
